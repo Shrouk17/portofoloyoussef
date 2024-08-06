@@ -7,7 +7,7 @@
 }
 header {
    
-    background-color: #f0f0f0 !important;
+    background-color: #51a3d3 !important;
     width: 100%;
     position: fixed;
     z-index: 999;
@@ -43,7 +43,7 @@ section {
         min-height: 100vh;
         display: flex;
         align-items: center;
-        background: url("./images/background.png") no-repeat;
+        background: url("background.png") no-repeat;
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
